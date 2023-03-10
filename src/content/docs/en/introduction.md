@@ -3,23 +3,22 @@ title: "Introduction"
 description: "Docs intro"
 ---
 
-**Welcome to Astro!**
+*Welcome to JDK Outstanding Technologies! We're excited to have you here. This guide will walk you through the basics of JDK web development workflow.*
 
-This is the `docs` starter template. It contains all of the features that you need to build a Markdown-powered documentation site, including:
+Our goal is to provide our clients with high-quality websites that meet their specific needs.
 
-- ✅ **Full Markdown support**
-- ✅ **Responsive mobile-friendly design**
-- ✅ **Sidebar navigation**
-- ✅ **Search (powered by Algolia)**
-- ✅ **Multi-language i18n**
-- ✅ **Automatic table of contents**
-- ✅ **Automatic list of contributors**
-- ✅ (and, best of all) **dark mode**
+With our focus on quality and attention to detail, we are confident that we can deliver the results our clients are looking for. We're thrilled to have you on board, and we hope you enjoy working with us!
 
-## Getting Started
+In the following sections, we'll walk you through the basics of JDK web development workflow. We'll cover the following topics:
 
-To get started with this theme, check out the `README.md` in your new project directory. It provides documentation on how to use and customize this template for your own project. Keep the README around so that you can always refer back to it as you build.
+- ✅ **Analyze the project**
+- ✅ **Start the project's codebase**
+- ✅ **Create the first global components**
+- ✅ **Create pages**
+- ✅ **Final steps**
 
-Found a missing feature that you can't live without? Please suggest it [on our Discord](https://astro.build/chat) and even consider adding it yourself on GitHub! Astro is an open source project and contributions from developers like you are how we grow!
 
-Good luck out there, Astronaut. 🧑‍🚀
+## Getting started
+As a new member, you'll be working on various projects to create high-quality websites. To ensure that we produce the best results, we follow a process that involves analyzing the project requirements, let's start with that shall we?
+
+[Analyzing the Project](./analyze-the-project)

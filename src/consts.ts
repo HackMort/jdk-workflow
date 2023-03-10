@@ -1,5 +1,5 @@
 export const SITE = {
-	title: 'Documentation',
+	title: 'JDK Web Development',
 	description: 'Your website description.',
 	defaultLanguage: 'en-us',
 } as const;
@@ -36,8 +36,9 @@ export type Sidebar = Record<
 >;
 export const SIDEBAR: Sidebar = {
 	en: {
-		'Section Header': [
+		'Getting Started': [
 			{ text: 'Introduction', link: 'en/introduction' },
+			{ text: 'Analyzing the Project', link: 'en/analyze-the-project' },
 			{ text: 'Page 2', link: 'en/page-2' },
 			{ text: 'Page 3', link: 'en/page-3' },
 		],

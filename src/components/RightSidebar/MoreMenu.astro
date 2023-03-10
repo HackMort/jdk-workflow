@@ -1,6 +1,6 @@
 ---
-import ThemeToggleButton from './ThemeToggleButton';
-import { COMMUNITY_INVITE_URL } from '../../consts';
+import ThemeToggleButton from "./ThemeToggleButton";
+import { COMMUNITY_INVITE_URL } from "../../consts";
 
 type Props = {
 	editHref: string;
@@ -10,8 +10,7 @@ const { editHref } = Astro.props;
 const showMoreSection = Boolean(COMMUNITY_INVITE_URL);
 ---
 
-{showMoreSection && <h2 class="heading">More</h2>}
-<ul>
+<!-- {showMoreSection && <h2 class="heading">More</h2>} --><!-- <ul>
 	{
 		editHref && (
 			<li class={`header-link depth-2`}>
@@ -64,8 +63,8 @@ const showMoreSection = Boolean(COMMUNITY_INVITE_URL);
 			</li>
 		)
 	}
-</ul>
-<div style="margin: 2rem 0; text-align: center;">
+</ul> -->
+<div style="margin: 2rem 0;">
 	<ThemeToggleButton client:visible />
 </div>
 
