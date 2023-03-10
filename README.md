@@ -1,14 +1,4 @@
-# Astro Starter Kit: Docs Site
-
-```bash
-npm create astro@latest -- --template docs
-```
-
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/docs)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/docs)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/docs/devcontainer.json)
-
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+# JDK: Web Development
 
 ![docs](https://user-images.githubusercontent.com/4677417/186189283-0831b9ab-d6b9-485d-8955-3057e532ab31.png)
 
@@ -160,12 +150,6 @@ If you plan to use Spanish as the default language, you just need to modify the 
 ```
 
 You can also remove the above script and write a landing page in Spanish instead.
-
-### What if I don't plan to support multiple languages?
-
-That's totally fine! Not all projects need (or can support) multiple languages. You can continue to use this theme without ever adding a second language.
-
-If that single language is not English, you can just replace `en` in directory layouts and configurations with the preferred language.
 
 ### Search (Powered by Algolia)
 
