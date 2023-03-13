@@ -1,19 +1,23 @@
 ---
-import AvatarList from './AvatarList.astro';
+import AvatarList from "./AvatarList.astro";
 type Props = {
 	path: string;
 };
 const { path } = Astro.props;
+const currentYear = new Date().getFullYear();
 ---
 
 <footer>
-	<AvatarList path={path} />
+	<!-- <AvatarList path={path} /> -->
+	© {currentYear} - JDK Outstanding Technologies.
 </footer>
 
 <style>
 	footer {
+		font-size: small;
 		margin-top: auto;
 		padding: 2rem;
 		border-top: 3px solid var(--theme-divider);
+		text-align: center;
 	}
 </style>
