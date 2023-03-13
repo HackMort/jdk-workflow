@@ -10,7 +10,7 @@ Once the structure is in place, we begin adding CSS code to establish a consiste
 ## Project Structure
 By default, we use the following structure for our projects:
 
-![docs](../public/project-structure.png)
+![Project Structure](/project-structure.png)
 
 ## Assets
 The `assets` folder contains all the static files that we will be using in our project. This includes images, fonts, and other files that we will be using in our project. We can also use this folder to store any other static files that we may need in the future.
