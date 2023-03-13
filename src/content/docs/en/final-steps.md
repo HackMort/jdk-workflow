@@ -20,7 +20,7 @@ One thing to keep in mind is that accessibility is not only for people with disa
 We make sure that the website is optimized for search engines by following the [Search Engine Optimization (SEO)](https://en.wikipedia.org/wiki/Search_engine_optimization) best practices. This includes adding the correct metadata to the website, such as the title, description, and keywords. We also make sure that the website is using the correct HTML tags, such as the `<h1>` tag for the main title, the `<h2>` tag for the subheadings, and the `<p>` tag for the paragraphs.
 
 ## Changes & Feedback
-Once the client has approved the website, we make sure that the website is ready for production by making any changes or fixes that the client may request. We also make sure that the website is ready for the next phase of the project, which is the migration to Sitecore.
+Once the client has approved the latest version of the website, we move on to the next step ***[Sitecore Migration](#sitecore)***.
 
 ## Sitecore
 As a Frontend Developer, we don't usually work on the Sitecore side of the project. However, we do need to make sure that the website is ready to be migrated to Sitecore.
