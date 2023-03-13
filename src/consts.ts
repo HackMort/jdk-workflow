@@ -1,5 +1,5 @@
 export const SITE = {
-	title: 'JDK Web Development',
+	title: 'Web Development',
 	description: 'JDK Web Development Workflow Website.',
 	defaultLanguage: 'en-us',
 } as const;

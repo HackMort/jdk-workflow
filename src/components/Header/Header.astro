@@ -23,8 +23,8 @@ const lang = getLanguageFromURL(currentPage);
 		</div>
 		<div class="logo flex">
 			<a href="/">
-				<!-- <AstroLogo size={40} /> -->
-				<h1>{SITE.title ?? "Documentation"}</h1>
+				<AstroLogo size={100} />
+				<h1>{SITE.title ?? ""}</h1>
 			</a>
 		</div>
 		<div style="flex-grow: 1;"></div>
@@ -116,13 +116,18 @@ const lang = getLanguageFromURL(currentPage);
 
 		.logo h1 {
 			display: initial;
+			font-size: 1.25rem;
 		}
 
 		.menu-toggle {
 			display: none;
 		}
 	}
-
+	@media (min-width: 1250px) {
+		.logo h1 {
+			font-size: 2rem;
+		}
+	}
 	/** Style Algolia */
 	:root {
 		--docsearch-primary-color: var(--theme-accent);
