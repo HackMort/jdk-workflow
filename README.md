@@ -28,10 +28,6 @@ All commands are run from the root of the project, from a terminal:
 
 To deploy your site to production, check out our [Deploy an Astro Website](https://docs.astro.build/guides/deploy) guide.
 
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
-
 ## Customize This Theme
 
 ### Site metadata
