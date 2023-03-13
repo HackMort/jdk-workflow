@@ -1,6 +1,6 @@
 ---
-title: "Analyzing the Project"
-description: "Analyzing the Project"
+title: "Project Analysis"
+description: "How we analyze a new project before starting to code."
 ---
 
 When we start a new project, the first step in our web development workflow is to analyze the project thoroughly. This helps us to understand the project requirements and ensure that we are on the right track from the beginning of the project.
@@ -40,3 +40,7 @@ We support the latest versions of the following browsers:
 - Firefox
 - Edge
 - Safari (desktop and mobile devices).
+
+<br /><br />
+***
+Next: [Codebase](/en/codebase)

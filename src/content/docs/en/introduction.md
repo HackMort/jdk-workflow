@@ -21,4 +21,6 @@ In the following sections, we'll walk you through the basics of JDK web developm
 ## Getting started
 As a new member, you'll be working on various projects to create high-quality websites. To ensure that we produce the best results, we follow a process that involves analyzing the project requirements, let's start with that shall we?
 
-[Analyzing the Project](./analyze-the-project)
+<br /><br />
+***
+Next: [Project Analysis](/en/analysis)

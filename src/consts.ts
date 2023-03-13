@@ -1,6 +1,6 @@
 export const SITE = {
 	title: 'JDK Web Development',
-	description: 'Your website description.',
+	description: 'JDK Web Development Workflow Website.',
 	defaultLanguage: 'en-us',
 } as const;
 
@@ -36,12 +36,16 @@ export type Sidebar = Record<
 >;
 export const SIDEBAR: Sidebar = {
 	en: {
-		'Getting Started': [
+		'Workflow': [
 			{ text: 'Introduction', link: 'en/introduction' },
-			{ text: 'Analyzing the Project', link: 'en/analyze-the-project' },
-			{ text: 'Page 2', link: 'en/page-2' },
-			{ text: 'Page 3', link: 'en/page-3' },
+			{ text: 'Analysis', link: 'en/analysis' },
+			{ text: 'Codebase', link: 'en/codebase' },
+			{ text: 'Components', link: 'en/components' },
+			{ text: 'Pages', link: 'en/pages' },
+			{ text: 'Final Steps', link: 'en/final-steps' },
 		],
-		'Another Section': [{ text: 'Page 4', link: 'en/page-4' }],
+		'Local Environment': [
+			{ text: 'Introduction', link: 'en/local-intro' }
+		],
 	},
 };

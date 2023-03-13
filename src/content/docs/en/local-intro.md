@@ -1,6 +1,6 @@
 ---
-title: "Page 4"
-description: "Lorem ipsum dolor sit amet - 4"
+title: "Local Development"
+description: "Introduction to local development"
 ---
 
 This is a fully-featured page, written in Markdown!
