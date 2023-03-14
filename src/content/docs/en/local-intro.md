@@ -15,6 +15,8 @@ Here's what we'll cover:
 
 We know setting up a development environment can be a bit daunting, but don't worry, we'll guide you through every step of the process. By the end of this guide, you'll be up and running and ready to start coding like a pro. Let's get started!
 
+>***Note:*** _This website is a work in progress. If you find any issues or have any suggestions, please let us know by creating an issue on <a href="https://github.com/HackMort/jdk-workflow/issues" target="_blank">GitHub</a>._
+
 <br /><br />
 ***
 Next: [How to install VSCode in windows 11](/en/install-vscode-windows-11)

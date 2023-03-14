@@ -7,10 +7,10 @@ description: "This guide helps you how to install and setup the most popular cod
 
 **To install VSCode on Windows 11, follow these steps:**
 
-- ✅ Download the VSCode installer from the official <a href="https://code.visualstudio.com" target="_blank">website</a>
-- ✅ Run the downloaded file and start the installation process.
-- ✅ Select the desired installation options and wait for the installation to complete.
-- ✅ Once the installation is complete, you can open VSCode from the Windows start menu.
+1. ✅ Download the VSCode installer from the official <a href="https://code.visualstudio.com" target="_blank">website</a>
+2. ✅ Run the downloaded file and start the installation process.
+3. ✅ Select the desired installation options and wait for the installation to complete.
+4. ✅ Once the installation is complete, you can open VSCode from the Windows start menu.
 
 ### How to Install Plugins in VSCode
 
@@ -24,7 +24,7 @@ Installing plugins in VSCode is easy and can help you improve your development e
 4. ✅ Wait for the installation to complete, and then click on the "Reload" button to activate the new plugin.
 5. ✅ You can manage your installed plugins by clicking on the "Extensions" icon again and accessing the "Installed" tab. From there, you can enable, disable, or remove plugins as needed.
 
->Note that some plugins may require additional setup or configuration. Be sure to read the documentation for each plugin to ensure you're using it correctly.
+**_Note that some plugins may require additional setup or configuration. Be sure to read the documentation for each plugin to ensure you're using it correctly._**
 
 ### Recommended plugins list to VSCode
 
@@ -41,3 +41,9 @@ Installing plugins in VSCode is easy and can help you improve your development e
 - <a target="_blank" href="https://marketplace.visualstudio.com/items?itemName=capaj.vscode-standardjs-snippets">JavaScript Standard Style Snippets</a>
 - <a target="_blank" href="https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost">Import Cost</a>
 - <a target="_blank" href="https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview">Image preview</a>
+
+>***Note:*** _This website is a work in progress. If you find any issues or have any suggestions, please let us know by creating an issue on <a href="https://github.com/HackMort/jdk-workflow/issues" target="_blank">GitHub</a>._
+
+<br /><br />
+***
+Next: [How to install VSCode in windows 11](/en/install-git-windows-11)
