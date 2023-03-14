@@ -47,5 +47,8 @@ export const SIDEBAR: Sidebar = {
 		'Local Environment': [
 			{ text: 'Introduction', link: 'en/local-intro' }
 		],
+		'Resources': [
+			{ text: 'BEM', link: 'en/bem' }
+		],
 	},
 };
