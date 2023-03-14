@@ -41,6 +41,8 @@ We support the latest versions of the following browsers:
 - Edge
 - Safari (desktop and mobile devices).
 
+>***Note:*** _This website is a work in progress. If you find any issues or have any suggestions, please let us know by creating an issue on <a href="https://github.com/HackMort/jdk-workflow/issues" target="_blank">GitHub</a>._
+
 <br /><br />
 ***
 Next: [Codebase](/en/codebase)
