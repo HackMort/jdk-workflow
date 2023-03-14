@@ -13,7 +13,7 @@ BEM is a methodology that aims to make your code more modular, reusable, and eas
 
 Each block consists of one or more elements, which are smaller components that make up the block. Elements are always contained within the block and are identified by their name.
 
-Modifiers are used to modify the appearance or behavior of blocks and elements. Modifiers are denoted by a double underscore (__) for elements and a double dash (--) for blocks.
+Modifiers are used to modify the appearance or behavior of blocks and elements. Modifiers are denoted by a double underscore ```(__)``` for elements and a double dash ```(--)``` for blocks.
 
 ### Benefits of BEM
 Using BEM has several benefits, including:
@@ -35,7 +35,7 @@ BEM's modular approach makes it easier to make changes to specific components wi
 BEM's naming convention helps ensure consistency across your codebase, making it easier to maintain and improve over time.
 
 ### Naming Convention
-BEM naming convention consists of three parts: Block, Element, and Modifier. Each part is separated by a double underscore (__) for elements and a double dash (--) for blocks. Let's look at each part in more detail:
+BEM naming convention consists of three parts: Block, Element, and Modifier. Each part is separated by a double underscore ```(__)``` for elements and a double dash ```(--)``` for blocks. Let's look at each part in more detail:
 
 ### Block
 A block is a standalone component that has a specific purpose and is not dependent on any other component. A block should have a unique and descriptive name that reflects its purpose. Block names are written in all lowercase letters and separated by a dash (-).
@@ -46,7 +46,7 @@ Example:
 ```
 
 ### Element
-An element is a smaller component that is contained within a block and has a specific purpose. Elements are always identified by their name and are separated from the block name by a double underscore (__). Element names are also written in all lowercase letters and separated by a dash (-).
+An element is a smaller component that is contained within a block and has a specific purpose. Elements are always identified by their name and are separated from the block name by a double underscore ```(__)```. Element names are also written in all lowercase letters and separated by a dash (-).
 
 Example:
 ```html
@@ -56,7 +56,7 @@ Example:
 
 ```
 ### Modifier
-A modifier is used to modify the appearance or behavior of a block or element. Modifiers are denoted by a double dash (--) for blocks and a double underscore (__) for elements. Modifier names are also written in all lowercase letters and separated by a dash
+A modifier is used to modify the appearance or behavior of a block or element. Modifiers are denoted by a double dash ```(--)``` for blocks and a double underscore ```(__)``` for elements. Modifier names are also written in all lowercase letters and separated by a dash
 
 Example:
 ```html
@@ -96,3 +96,5 @@ Check out the video below for a more in-depth explanation of BEM:
 
 If you prefer an explanation in spanish, check out the video below:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NucZM0GMRi4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+>***Note:*** _This website is a work in progress. If you find any issues or have any suggestions, please let us know by creating an issue on <a href="https://github.com/HackMort/jdk-workflow/issues" target="_blank">GitHub</a>._
