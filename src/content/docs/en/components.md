@@ -24,8 +24,6 @@ Once we have created the components, we need to make sure that they are working 
 ## Documentation
 Finally, we need to document the component. This is important because it will help us understand how the component works and how to use it. We add the component to the Design System page in the documentation.
 
->***Note:*** _This website is a work in progress. If you find any issues or have any suggestions, please let us know by creating an issue on <a href="https://github.com/HackMort/jdk-workflow/issues" target="_blank">GitHub</a>._
-
 <br /><br />
 ***
 Next: [Pages](/en/pages)

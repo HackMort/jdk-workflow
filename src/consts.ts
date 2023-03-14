@@ -51,7 +51,9 @@ export const SIDEBAR: Sidebar = {
 			{ text: 'How to install nodejs on Windows 11', link: 'en/install-nodejs-windows-11' },
 		],
 		'Resources': [
-			{ text: 'BEM', link: 'en/bem' }
+			{ text: 'BEM', link: 'en/bem' },
+			{ text: 'Git', link: 'en/git' },
+			{ text: 'ESLint', link: 'en/eslint' }
 		],
 	},
 };

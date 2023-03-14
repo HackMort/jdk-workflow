@@ -31,5 +31,3 @@ We work with the Backend Team helping them with the migration process or with an
 This is the end of the Frontend Developer's journey. We have learned how to create a website from scratch, from setting up the file structure and HTML layout to applying styles and optimizing for mobile devices. We have also learned how to make sure that the website is ready for production.
 
 All that's left to do is to celebrate our success! 🎉
-
->***Note:*** _This website is a work in progress. If you find any issues or have any suggestions, please let us know by creating an issue on <a href="https://github.com/HackMort/jdk-workflow/issues" target="_blank">GitHub</a>._
