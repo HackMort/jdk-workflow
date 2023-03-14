@@ -45,7 +45,10 @@ export const SIDEBAR: Sidebar = {
 			{ text: 'Final Steps', link: 'en/final-steps' },
 		],
 		'Local Environment': [
-			{ text: 'Introduction', link: 'en/local-intro' }
+			{ text: 'Introduction', link: 'en/local-intro' },
+			{ text: 'How to install VSCode on Windows 11', link: 'en/install-vscode-windows-11' },
+			{ text: 'How to install GIT on Windows 11', link: 'en/install-git-windows-11' },
+			{ text: 'How to install nodejs on Windows 11', link: 'en/install-nodejs-windows-11' },
 		],
 	},
 };

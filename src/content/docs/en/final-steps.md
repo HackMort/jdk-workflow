@@ -12,12 +12,12 @@ Here we tackle all changes, updates, and fixes that the client may request. Inte
 We have a couple of rounds of ***"feedback"***, where we make sure that the Website is going in the right direction.
 
 ## Accessibility
-During the project, we make sure that the website is accessible by following the [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/). This includes making sure that the website is usable by people with disabilities, such as people who are blind, have low vision, have color blindness, or have motor impairments.
+During the project, we make sure that the website is accessible by following the <a href="https://www.w3.org/WAI/standards-guidelines/wcag/" target="_blank">Web Content Accessibility Guidelines (WCAG)</a>. This includes making sure that the website is usable by people with disabilities, such as people who are blind, have low vision, have color blindness, or have motor impairments.
 
 One thing to keep in mind is that accessibility is not only for people with disabilities. It also helps people who are using mobile devices, people who are using a slow internet connection, and people who are using a screen reader.
 
 ## SEO
-We make sure that the website is optimized for search engines by following the [Search Engine Optimization (SEO)](https://en.wikipedia.org/wiki/Search_engine_optimization) best practices. This includes adding the correct metadata to the website, such as the title, description, and keywords. We also make sure that the website is using the correct HTML tags, such as the `<h1>` tag for the main title, the `<h2>` tag for the subheadings, and the `<p>` tag for the paragraphs.
+We make sure that the website is optimized for search engines by following the <a href="https://en.wikipedia.org/wiki/Search_engine_optimization" target="_blank">Search Engine Optimization (SEO)</a> best practices. This includes adding the correct metadata to the website, such as the title, description, and keywords. We also make sure that the website is using the correct HTML tags, such as the `<h1>` tag for the main title, the `<h2>` tag for the subheadings, and the `<p>` tag for the paragraphs.
 
 ## Changes & Feedback
 Once the client has approved the latest version of the website, we move on to the next step ***[Sitecore Migration](#sitecore)***.
@@ -32,4 +32,4 @@ This is the end of the Frontend Developer's journey. We have learned how to crea
 
 All that's left to do is to celebrate our success! 🎉
 
-***Note:*** _This website is a work in progress. If you find any issues or have any suggestions, please let us know by creating an issue on [GitHub](https://github.com/HackMort/jdk-workflow/issues)._
+>***Note:*** _This website is a work in progress. If you find any issues or have any suggestions, please let us know by creating an issue on <a href="https://github.com/HackMort/jdk-workflow/issues" target="_blank">GitHub</a>._
