@@ -140,9 +140,6 @@ This creates a new branch called hotfix/1.0.1 off of the `main` branch. The team
 
 If you want to learn more about Gitflow, check out the: <a href="https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow" target="_blank">Gitflow Workflow Documentation</a>.
 
-
->***Note:*** _This website is a work in progress. If you find any issues or have any suggestions, please let us know by creating an issue on <a href="https://github.com/HackMort/jdk-workflow/issues" target="_blank">GitHub</a>._
-
 <br /><br />
 ***
 Next: [ESLint](/en/eslint)

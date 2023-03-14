@@ -8,7 +8,7 @@ ESLint is an open-source JavaScript linting tool that is used to identify and re
 
 ESLint works by analyzing the syntax of a JavaScript file and comparing it against a set of predefined rules. These rules are defined by the community or by the developer, and they can be customized based on specific project requirements. ESLint can be integrated with various text editors, build systems, and continuous integration tools.
 
-## Benefits of using ESLint
+## Benefits of ESLint
 
 #### Code Quality
 ESLint can help you identify and fix common code quality issues, such as unused variables, missing semicolons, and inconsistent spacing.
@@ -50,9 +50,10 @@ Modify your `package.json` file and edit eslintConfig to use StandardJS:
 }
 ```
 
-### Error Lens
-We recommend you install the VSCode Extension Error Lens to help you identify and fix errors in your code. Follow the link below to install the extension:
+## Error Lens
+Error Lens is a Visual Studio Code extension that helps you identify and fix errors in your code. It can be used with ESLint to help you identify and fix errors in your JavaScript code.
+
+### Install Error Lens
+To install Error Lens, open the Extensions tab in Visual Studio Code and search for Error Lens. Click the Install button to install the extension. Or you can install it directly from the Visual Studio Code Marketplace:
 <a href="https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens" target="_blank">Error Lens</a>
 
-<br /> <br />
->***Note:*** _This website is a work in progress. If you find any issues or have any suggestions, please let us know by creating an issue on <a href="https://github.com/HackMort/jdk-workflow/issues" target="_blank">GitHub</a>._

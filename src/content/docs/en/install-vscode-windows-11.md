@@ -42,8 +42,6 @@ Installing plugins in VSCode is easy and can help you improve your development e
 - <a target="_blank" href="https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost">Import Cost</a>
 - <a target="_blank" href="https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview">Image preview</a>
 
->***Note:*** _This website is a work in progress. If you find any issues or have any suggestions, please let us know by creating an issue on <a href="https://github.com/HackMort/jdk-workflow/issues" target="_blank">GitHub</a>._
-
 <br /><br />
 ***
 Next: [How to install VSCode in windows 11](/en/install-git-windows-11)

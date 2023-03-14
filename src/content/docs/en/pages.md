@@ -28,8 +28,6 @@ We then use this class in SCSS to group the styles corresponding to its internal
 ## Assets
 If a page has assets, we usually group them within ```/assets/images/<page-name>``` for images, this way we can easily identify the assets that belong to a specific page and avoid having a large number of assets in the ```/assets/images``` folder.
 
->***Note:*** _This website is a work in progress. If you find any issues or have any suggestions, please let us know by creating an issue on <a href="https://github.com/HackMort/jdk-workflow/issues" target="_blank">GitHub</a>._
-
 <br /><br />
 ***
 Next: [Final Steps](/en/final-steps)

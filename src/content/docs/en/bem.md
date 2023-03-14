@@ -97,10 +97,6 @@ Check out the video below for a more in-depth explanation of BEM:
 If you prefer an explanation in spanish, check out the video below:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NucZM0GMRi4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
-<br /> <br />
->***Note:*** _This website is a work in progress. If you find any issues or have any suggestions, please let us know by creating an issue on <a href="https://github.com/HackMort/jdk-workflow/issues" target="_blank">GitHub</a>._
-
 <br /><br />
 ***
 Next: [Git](/en/git)
