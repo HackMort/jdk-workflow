@@ -14,6 +14,10 @@ That's it! You've successfully installed Git and Git Bash on Windows 11. To test
 
 **You can also try typing other Git commands or Unix-like commands like ls, pwd, cd, etc.**
 
+Here is a video tutorial with step-by-step instructions for you:
+<br /><br />
+<video controls src="/videos/install-git-windows-11.mp4"></video>
+
 >***Note:*** _This website is a work in progress. If you find any issues or have any suggestions, please let us know by creating an issue on <a href="https://github.com/HackMort/jdk-workflow/issues" target="_blank">GitHub</a>._
 
 <br /><br />

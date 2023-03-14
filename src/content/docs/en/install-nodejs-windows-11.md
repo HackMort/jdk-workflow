@@ -20,6 +20,10 @@ Here'is how you can do:
 
 **That's it! You've now successfully installed Node.js on your Windows 11 system. You can now start using Node.js and npm to build and run applications on your computer.**
 
+Here is a video tutorial with step-by-step instructions for you:
+<br /><br />
+<video controls src="/videos/install-nodejs-windows-11.mp4"></video>
+
 ## Final Thoughts
 This marks the end of the basic local environment setup. We have learned which tools are used in our team and how to install them. We have also added some configurations to help us code like experts.
 
