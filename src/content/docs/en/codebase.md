@@ -48,8 +48,6 @@ The `robots.txt` contains the rules for web crawlers or robots that visit the we
 Depending on the complexity and scope of the project, you may want to add more folders or files, or change the names or locations of the existing ones.
 The important thing is to keep the project structure organized, consistent and easy to understand for yourself and other developers who may work on the project.*
 
->***Note:*** _This website is a work in progress. If you find any issues or have any suggestions, please let us know by creating an issue on <a href="https://github.com/HackMort/jdk-workflow/issues" target="_blank">GitHub</a>._
-
 <br /><br />
 ***
 Next: [Components](/en/components)

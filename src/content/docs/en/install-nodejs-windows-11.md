@@ -26,5 +26,3 @@ Here is a video tutorial with step-by-step instructions for you:
 
 ## Final Thoughts
 This marks the end of the basic local environment setup. We have learned which tools are used in our team and how to install them. We have also added some configurations to help us code like experts.
-
->***Note:*** _This website is a work in progress. If you find any issues or have any suggestions, please let us know by creating an issue on <a href="https://github.com/HackMort/jdk-workflow/issues" target="_blank">GitHub</a>._

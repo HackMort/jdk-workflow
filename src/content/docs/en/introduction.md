@@ -21,8 +21,6 @@ In the following sections, we'll walk you through the basics of JDK web developm
 ## Getting started
 As a new member, you'll be working on various projects to create high-quality websites. To ensure that we produce the best results, we follow a process that involves analyzing the project requirements, let's start with that shall we?
 
->***Note:*** _This website is a work in progress. If you find any issues or have any suggestions, please let us know by creating an issue on <a href="https://github.com/HackMort/jdk-workflow/issues" target="_blank">GitHub</a>._
-
 <br /><br />
 ***
 Next: [Project Analysis](/en/analysis)

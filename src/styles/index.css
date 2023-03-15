@@ -424,3 +424,7 @@ img.logo {
 .theme-dark img.logo {
 	filter: none;
 }
+
+.note {
+	margin-top: 1rem;
+}
