@@ -20,7 +20,7 @@ That's it! You've successfully installed Git and Git Bash on Windows 11. To test
 
 Here is a video tutorial with step-by-step instructions for you:
 <br /><br />
-<video controls src="/videos/install-git-windows-11.mp4"></video>
+<video controls src="/videos/install-git-windows-11.mp4" poster="/images/git.png"></video>
 
 <br /><br />
 ***

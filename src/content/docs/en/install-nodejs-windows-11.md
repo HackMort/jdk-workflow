@@ -25,7 +25,7 @@ Here'is how you can do:
 
 Here is a video tutorial with step-by-step instructions for you:
 <br /><br />
-<video controls src="/videos/install-nodejs-windows-11.mp4"></video>
+<video controls src="/videos/install-nodejs-windows-11.mp4" poster="/images/install-nodejs.jpg"></video>
 
 ## Final Thoughts
 This marks the end of the basic local environment setup. We have learned which tools are used in our team and how to install them. We have also added some configurations to help us code like experts.
