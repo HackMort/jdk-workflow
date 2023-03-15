@@ -1,6 +1,10 @@
 ---
 title: "Project Analysis"
 description: "How we analyze a new project before starting to code."
+image: {
+    src: /images/planing-project.jpg,
+    attribution: Photo by <a href="https://unsplash.com/@jasongoodman_youxventures?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jason Goodman</a> on <a href="https://unsplash.com/photos/Oalh2MojUuk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+}
 ---
 
 When we start a new project, the first step in our web development workflow is to analyze the project thoroughly. This helps us to understand the project requirements and ensure that we are on the right track from the beginning of the project.

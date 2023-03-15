@@ -1,6 +1,10 @@
 ---
 title: "Codebase"
 description: "Codebase"
+image: {
+    src: /images/codebase.jpg,
+    attribution: Photo by <a href="https://unsplash.com/@flowforfrank?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ferenc Almasi</a> on <a href="https://unsplash.com/photos/eYpcLDXHVb0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+}
 ---
 
 During this phase, we start building the foundation of the project by creating its structure. We define the different files and directories that we will be using, including the HTML, CSS, and JavaScript files. We also establish the naming conventions and file organization that we will follow throughout the project to ensure that the codebase remains organized and maintainable.

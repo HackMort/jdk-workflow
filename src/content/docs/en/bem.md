@@ -1,6 +1,9 @@
 ---
 title: "BEM"
 description: "BEM Methodology"
+image: {
+    src: /images/css-bem.jpg
+}
 ---
 
 ## Methodology

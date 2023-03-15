@@ -10,7 +10,8 @@ const docs = defineCollection({
 		image: z
 			.object({
 				src: z.string(),
-				alt: z.string(),
+				alt: z.string().optional(),
+				attribution: z.string().optional(),
 			})
 			.optional(),
 		ogLocale: z.string().optional(),

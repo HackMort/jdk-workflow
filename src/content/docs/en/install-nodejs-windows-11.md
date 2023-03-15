@@ -1,6 +1,9 @@
 ---
 title: "How to install nodejs on Windows 11"
 description: "This guide helps you how to install nodejs in Windows 11"
+image: {
+    src: /images/install-nodejs.jpg
+}
 ---
 
 *We need to use Node js to improve our development workflow and achieve all our goals in less time*
@@ -19,6 +22,10 @@ Here'is how you can do:
 10. ✅ Once the installation is complete, click "Finish" to exit the Node.js Setup Wizard.
 
 **That's it! You've now successfully installed Node.js on your Windows 11 system. You can now start using Node.js and npm to build and run applications on your computer.**
+
+Here is a video tutorial with step-by-step instructions for you:
+<br /><br />
+<video controls src="/videos/install-nodejs-windows-11.mp4" poster="/images/install-nodejs.jpg"></video>
 
 ## Final Thoughts
 This marks the end of the basic local environment setup. We have learned which tools are used in our team and how to install them. We have also added some configurations to help us code like experts.

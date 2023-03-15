@@ -1,6 +1,10 @@
 ---
 title: "Pages"
 description: "How we create pages."
+image: {
+    src: /images/web-pages.jpg,
+    attribution: Photo by <a href="https://unsplash.com/@anniespratt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Annie Spratt</a> on <a href="https://unsplash.com/photos/5cFwQ-WMcJU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+}
 ---
 
 From setting up the file structure and HTML layout to applying styles and optimizing for mobile devices, we'll cover everything you need to know to create web pages that are functional, user-friendly, and visually appealing.
