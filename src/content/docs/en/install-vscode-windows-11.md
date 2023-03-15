@@ -1,6 +1,10 @@
 ---
 title: "How to install VSCode on Windows 11"
 description: "This guide helps you how to install and setup the most popular code editor in Windows 11"
+image: {
+    src: /images/install-vscode.jpg,
+    attribution: Photo by <a href="https://unsplash.com/@hiteshchoudhary?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Hitesh Choudhary</a> on <a href="https://unsplash.com/photos/pMnw5BSZYsA?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+}
 ---
 
 *VSCode is a free and open-source code editor developed by Microsoft. It's a popular tool among developers due to its numerous features and extensions.*

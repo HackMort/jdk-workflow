@@ -1,6 +1,10 @@
 ---
 title: "How to install GIT on Windows 11"
 description: "This guide helps you how to install GIT in Windows 11"
+image: {
+    src: /images/install-git.jpg,
+    attribution: Photo by <a href="https://unsplash.com/@yancymin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Yancy Min</a> on <a href="https://unsplash.com/photos/842ofHC6MaI?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+}
 ---
 *To use Git on your Windows 11 computer, you'll need to install Git and Git Bash. Git is a cool version control system that helps you manage your code projects easily. Git Bash is a command-line interface that lets you run Git commands and other Unix-like commands on Windows.*
 
@@ -17,8 +21,6 @@ That's it! You've successfully installed Git and Git Bash on Windows 11. To test
 Here is a video tutorial with step-by-step instructions for you:
 <br /><br />
 <video controls src="/videos/install-git-windows-11.mp4"></video>
-
->***Note:*** _This website is a work in progress. If you find any issues or have any suggestions, please let us know by creating an issue on <a href="https://github.com/HackMort/jdk-workflow/issues" target="_blank">GitHub</a>._
 
 <br /><br />
 ***

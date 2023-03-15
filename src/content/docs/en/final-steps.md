@@ -1,6 +1,10 @@
 ---
 title: "Final Steps"
 description: "This is the final step of the project, where we polish the page and make sure it's ready for production."
+image: {
+    src: /images/final-steps.jpg,
+    attribution: Photo by <a href="https://unsplash.com/@ante_kante?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ante Hamersmit</a> on <a href="https://unsplash.com/photos/5GbN2LeeoyY?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+}
 ---
 
 Once we have finished creating the pages, we need to make sure that the website is ready for production. This includes making sure that the website is accessible, responsive, and optimized for search engines.

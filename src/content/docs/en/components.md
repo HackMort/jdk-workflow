@@ -1,6 +1,10 @@
 ---
 title: "Components"
 description: "How we create reusable components."
+image: {
+    src: /images/code-blocks.jpg,
+    attribution: Photo by <a href="https://unsplash.com/@xavi_cabrera?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Xavi Cabrera</a> on <a href="https://unsplash.com/photos/kn-UmDZQDjM?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+}
 ---
 
 During the project analysis, we identify common design patterns that could be reused throughout the project. This includes header, footer, buttons, form fields, and other UI elements. Identifying reusable components can help save time and reduce code duplication.

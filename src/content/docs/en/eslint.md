@@ -1,6 +1,9 @@
 ---
 title: "ESLint"
 description: "ESLint and StandardJS"
+image: {
+    src: /images/eslint.jpg
+}
 ---
 
 ## What is it?
@@ -56,4 +59,3 @@ Error Lens is a Visual Studio Code extension that helps you identify and fix err
 ### Install Error Lens
 To install Error Lens, open the Extensions tab in Visual Studio Code and search for Error Lens. Click the Install button to install the extension. Or you can install it directly from the Visual Studio Code Marketplace:
 <a href="https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens" target="_blank">Error Lens</a>
-

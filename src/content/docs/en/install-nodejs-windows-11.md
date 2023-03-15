@@ -1,6 +1,9 @@
 ---
 title: "How to install nodejs on Windows 11"
 description: "This guide helps you how to install nodejs in Windows 11"
+image: {
+    src: /images/install-nodejs.jpg
+}
 ---
 
 *We need to use Node js to improve our development workflow and achieve all our goals in less time*

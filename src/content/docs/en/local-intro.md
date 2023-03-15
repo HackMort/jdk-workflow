@@ -1,6 +1,10 @@
 ---
 title: "Local Development"
 description: "Introduction to local development"
+image: {
+    src: /images/local-environment.jpg,
+    attribution: Photo by <a href="https://unsplash.com/@christinhumephoto?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Christin Hume</a> on <a href="https://unsplash.com/wallpapers/desktop/computer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+}
 ---
 
 *Hey there! Welcome to our team. To help you get started, we've put together a tutorial that will walk you through setting up your development environment on Windows 11.*

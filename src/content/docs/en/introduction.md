@@ -1,6 +1,8 @@
 ---
 title: "Introduction"
 description: "Docs intro"
+image: { src: /images/workflow.jpg, attribution: Photo by <a href="https://unsplash.com/@marvelous?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Marvin Meyer</a> on <a href="https://unsplash.com/photos/SYTO3xs06fU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+   }
 ---
 
 *Welcome to JDK Outstanding Technologies! We're excited to have you here. This guide will walk you through the basics of JDK web development workflow.*

@@ -1,6 +1,9 @@
 ---
 title: "GIT"
 description: "GIT and Gitflow"
+image: {
+    src: /images/git.png
+}
 ---
 
 ## What is GIT?
