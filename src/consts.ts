@@ -46,6 +46,9 @@ export const SIDEBAR: Sidebar = {
 			{ text: 'How to install GIT on Windows 11', link: 'en/install-git-windows-11' },
 			{ text: 'How to install nodejs on Windows 11', link: 'en/install-nodejs-windows-11' },
 		],
+        'Advanced Environment': [
+            { text: 'Introduction', link: 'en/wsl-introduction' }
+        ],
 		'Resources': [
 			{ text: 'BEM', link: 'en/bem' },
 			{ text: 'Git', link: 'en/git' },
