@@ -21,9 +21,9 @@ export const GITHUB_EDIT_URL = `https://github.com/withastro/astro/tree/main/exa
 
 // See "Algolia" section of the README for more information.
 export const ALGOLIA = {
-	indexName: 'XXXXXXXXXX',
-	appId: 'XXXXXXXXXX',
-	apiKey: 'XXXXXXXXXX',
+	indexName: 'tech-jdoutstanding',
+	appId: 'AKCUAKGYAJ',
+	apiKey: '9344bf64fb52846c58b95a2428f3a697',
 };
 
 export type Sidebar = Record<

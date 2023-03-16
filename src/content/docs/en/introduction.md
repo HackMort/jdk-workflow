@@ -20,6 +20,16 @@ In the following sections, we'll walk you through the basics of JDK web developm
 - ✅ **Final steps**
 
 
+## Channels of communication
+We use the following channels of communication to keep in touch with our clients and team members:
+#### Microsoft Teams
+ We use Microsoft Teams to communicate with the team members. We use it to share files, discuss project requirements, and keep track of tasks and to hold meetings between team members.
+#### GitHub
+We use GitHub to store the project's codebase. We use it to track changes to the codebase and to collaborate with other team members.
+#### Zoom 
+We use Zoom to hold video calls with our clients and team members. We use it to discuss project requirements and to hold meetings.
+#### Email
+We use email to communicate with our clients. Also to request, receive, and send files to our clients.
 ## Getting started
 As a new member, you'll be working on various projects to create high-quality websites. To ensure that we produce the best results, we follow a process that involves analyzing the project requirements, let's start with that shall we?
 
