@@ -30,13 +30,55 @@ Look for common design patterns that could be reused throughout the project. Thi
 ## Assets
 Make sure that all project assets, such as images, icons, and videos, are available in the propper format and size.
 
+To ensure optimal performance, it's crucial to consider the size and format of assets used on your site. Here are the general parameters we follow:
+
+Mobile Version: Aim for asset sizes between 1kb and 350kb.
+Tablet Version: Keep assets between 500kb and 1mb.
+Desktop Version: Maximum asset size should not exceed 2mb.
+
+>IMPORTANT: While exceptions exist, it's important to avoid assets exceeding 3mb in size.
+
+In addition to size, selecting the right formats for each asset type is key. Here are some common examples:
+
+- SVG: Ideal for vectors like icons and graphics that scale without losing quality.
+- PNG: Best used when transparency is required in the image.
+- JPG: Highly optimized format, perfect for photographs and non-transparent images.
+
+Sometimes, assets may not be provided in the required format.
+
+In such cases, we can make minor edits to the assets, such as compressing them to reduce size or removing unnecessary transparent pixels.
+
+Another situation arises when clients take too long to provide appropriate assets. If we request new assets and encounter delays, a quick edit to the existing asset can help us overcome the problem and avoid development delays.
+
+We strongly recommend maintaining a shared document with the entire team to track assets that require improvement. This document can take the form of an Excel file, enabling parallel work and effective collaboration.
+
+While we have covered the most important and easily implementable aspects, there are other well-known techniques that can further optimize assets. If you have any additional suggestions, please feel free to share them! Optimizing assets on a website is an ongoing process, and it benefits from various strategies. Let's ensure your website performs at its best!
+
 ## Stack
 Our stack is based on the following technologies:
 - HTML5 - Semantic markup
 - CSS (Sass) and BEM methodology
 - JavaScript Vanilla (ES6).
 
-*We normally don't use any CSS or JS frameworks/libraries unless it's a special case. We prefer to use Vanilla JS and CSS to keep the codebase as simple as possible.*
+~~*We normally don't use any CSS or JS frameworks/libraries unless it's a special case. We prefer to use Vanilla JS and CSS to keep the codebase as simple as possible.*~~
+
+We absolutely love the <a href="https://astro.build/" target="_blank">Astro framework</a>, and it's one of our key tools for developing highly customized and optimized websites in the shortest possible time, making us more productive.
+
+Here are some of the reasons why utilizing the Astro framework is fantastic:
+
+User-friendly: You don't need to be an expert to create something with Astro. It's designed to be accessible and easy to use for developers of all levels.
+
+- Exceptional Performance: Astro leverages a build-time rendering approach, allowing us to generate static sites that load incredibly fast. By pre-rendering pages and components, we can deliver an outstanding user experience with minimal loading times.
+
+- Seamless Integration: Astro seamlessly integrates with other tools and frameworks, giving us the best of both worlds. We can effortlessly incorporate JavaScript frameworks, leveraging their power while enjoying the benefits of Astro's static site generation.
+
+- Enhanced Developer Experience: Astro prioritizes developer ergonomics, providing an excellent development experience. Its intuitive configuration and optimized build process make working with Astro a pleasure, saving us valuable time and effort.
+
+- SEO-Friendly Architecture: Astro's static site generation capabilities ensure that our websites are search engine friendly. We can optimize meta tags, generate sitemaps, and take advantage of pre-rendered content, contributing to better search engine visibility.
+
+- Comprehensive yet Flexible: With over 100 Astro integrations to choose from, it offers a comprehensive ecosystem. Additionally, its file-based routing system provides a flexible approach to structuring our projects.
+
+>By utilizing the Astro framework, we unlock a world of possibilities to create stunning, high-performing static sites. Its speed, developer-friendly approach, and flexibility empower us to deliver top-quality websites efficiently.
 
 ## Browser Support
 We support the latest versions of the following browsers:
