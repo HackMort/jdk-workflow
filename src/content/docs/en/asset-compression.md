@@ -14,8 +14,7 @@ To ensure optimal performance, it's crucial to consider the size and format of a
 
 >IMPORTANT: While exceptions exist, these are the general guidelines we follow. Unless in completely necesary, no asset should be bigger than 3MB.
 
-<h3>Introduction</h3>
-
+### Introduction
 After a research made by our developer team to find the best asset compression tools, we determined the 5 most acclaimed image compression tools by the front-end community are:
 
 
@@ -29,36 +28,40 @@ After a research made by our developer team to find the best asset compression t
 
 - <a href="https://squoosh.app/" target="_blank">squoosh.app</a>
 
-<h3>PNG format</h3>
+### PNG format test
 
 The image used for performance testing in .png format weighs 4MB, and these are the results of the best 2 tools:
 
-<h4>JPEG optimizer</h4>
+#### JPEG optimizer
 <img src="/images/jpegoptimizerpng.png">
-<h4>Tiny PNG</h4>
+
+#### Tiny PNG
 <img src="/images/tinypngpng.png">
 
-<h3>JPG format</h3>
-
+### JPG format test
 The image used for performance testing in .jpg format weighs 1MB, and these are the results of the best 2 tools:
 
-<h4>Compressor.io</h4>
+#### Compressor.io
 <img src="/images/compressoriojpg.png">
-<h4>Tiny PNG</h4>
+
+#### Tiny PNG
 <img src="/images/tinypngjpg.png">
 
-<h3>SVG</h3>
-
+### SVG format test
 It is important to remember in this section that Compressor.io is the only tool among all the ones previously mentioned that can compress assets in .svg format.
 
-<h3>CONCLUSIONS</h3>
-<ul>
-<li>Regarding the PNG format, JPEG optimizer is the tool with the best performance.</li>
-<li>Regarding the JPG format, Compressor.io is the tool with the best performance.</li>
-<li>Only Compressor.io is compatible with compressing SVG format.</li>
-<li>If there is a scenario where we have a very heavy PNG file and is not relevant if we use it as a compressed JPG in the project we are working on, compressing that PNG file to obtain a compressed JPG using Squoosh.app is the best option.</li>
-<li>It is important to mention that the tests on the tools were conducted using their free versions. Only Optimizilla and Squoosh can compress files larger than 10MB. In the case of Tiny PNG's free version, it only accepts files of 5MB or less.</li>
-</ul>
+### CONCLUSIONS
+
+- Regarding the PNG format, JPEG optimizer is the tool with the best performance.
+
+- Regarding the JPG format, Compressor.io is the tool with the best performance.
+
+- Only Compressor.io is compatible with compressing SVG format.
+
+- If there is a scenario where we have a very heavy PNG file and is not relevant if we use it as a compressed JPG in the project we are working on, compressing that PNG file to obtain a compressed JPG using Squoosh.app is the best option.
+
+- It is important to mention that the tests on the tools were conducted using their free versions. Only Optimizilla and Squoosh can compress files larger than 10MB. In the case of Tiny PNG's free version, it only accepts files of 5MB or less.
+
 
 > IMPORTANT: If you would like to check the results of the rest of the tools during our test, you can do so, by taking a look to our complete research <a href="https://docs.google.com/document/d/1yuBmqcXYEPBZDlnMtmNOlVGOT4PBck1c/edit?usp=sharing&ouid=111006603447264063807&rtpof=true&sd=true">HERE</a>.
 
