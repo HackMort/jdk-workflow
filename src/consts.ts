@@ -50,7 +50,7 @@ export const SIDEBAR: Sidebar = {
 			{ text: 'BEM', link: 'en/bem' },
 			{ text: 'Git', link: 'en/git' },
 			{ text: 'ESLint', link: 'en/eslint' },
-			{ text: 'How to work with images', link: 'en/how-to-work-with-images' }
+			{ text: 'Asset compression', link: 'en/asset-compression' }
 		],
 	},
 };
