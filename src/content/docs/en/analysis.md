@@ -30,6 +30,8 @@ Look for common design patterns that could be reused throughout the project. Thi
 ## Assets
 Make sure that all project assets, such as images, icons, and videos, are available in the propper format and size.
 
+While we don't work with graphics, sometimes we have to make a little modifications to the provided assets ie: compressing, remove transparent pixels/backgrounds, etc. For that we rely on the following [resources](/en/how-to-work-with-images)
+
 ## Stack
 Our stack is based on the following technologies:
 - HTML5 - Semantic markup
@@ -37,6 +39,10 @@ Our stack is based on the following technologies:
 - JavaScript Vanilla (ES6).
 
 *We normally don't use any CSS or JS frameworks/libraries unless it's a special case. We prefer to use Vanilla JS and CSS to keep the codebase as simple as possible.*
+
+## Astro framework
+
+Astro is a great framework, versatil, robust, developer friendly, we absolutely love it an recommend it. You can learn more about it <a href="https://astro.build/" target="_blank">here</a>.
 
 ## Browser Support
 We support the latest versions of the following browsers:

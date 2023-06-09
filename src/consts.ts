@@ -49,7 +49,8 @@ export const SIDEBAR: Sidebar = {
 		'Resources': [
 			{ text: 'BEM', link: 'en/bem' },
 			{ text: 'Git', link: 'en/git' },
-			{ text: 'ESLint', link: 'en/eslint' }
+			{ text: 'ESLint', link: 'en/eslint' },
+			{ text: 'Asset compression', link: 'en/asset-compression' }
 		],
 	},
 };
