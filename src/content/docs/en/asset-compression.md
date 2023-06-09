@@ -20,32 +20,33 @@ After a research made by our developer team to find the best asset compression t
 
 - <a href="https://compressor.io/" target="_blank">Compressor.io</a>
 
-- <a href="https://jpeg-optimizer.com/" target="_blank">JPEG optimizer</a>
+- <a href="https://jpeg-optimizer.com/" target="_blank">JPEG optimizer</a> 
 
 - <a href="https://imagecompressor.com/" target="_blank">Optimizilla</a>
 
-- <a href="https://tinypng.com/" target="_blank">TinyPNG</a>
+- <a href="https://tinypng.com/" target="_blank">TinyPNG</a> 
 
-- <a href="https://squoosh.app/" target="_blank">squoosh.app</a>
+- <a href="https://squoosh.app/" target="_blank">squoosh.app</a> 
 
 ### PNG format test
 
 The image used for performance testing in .png format weighs 4MB, and these are the results of the best 2 tools:
 
 #### JPEG optimizer
-<img src="/images/jpegoptimizerpng.png">
+![jpg optimizer test](/images/jpegoptimizerpng.png)
 
-#### Tiny PNG
-<img src="/images/tinypngpng.png">
+#### TinyPNG
+![tinyPNG test](/images/tinypngpng.png)
 
 ### JPG format test
 The image used for performance testing in .jpg format weighs 1MB, and these are the results of the best 2 tools:
 
 #### Compressor.io
-<img src="/images/compressoriojpg.png">
+![tinyPNG test](/images/compressoriojpg.png)
 
-#### Tiny PNG
-<img src="/images/tinypngjpg.png">
+#### TinyPNG
+![tinyPNG test](/images/tinypngjpg.png)
+
 
 ### SVG format test
 It is important to remember in this section that Compressor.io is the only tool among all the ones previously mentioned that can compress assets in .svg format.
