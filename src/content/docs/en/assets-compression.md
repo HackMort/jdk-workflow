@@ -1,5 +1,5 @@
 ---
-title: "Asset compression"
+title: "Assets compression"
 description: "Asset compression resources."
 image: { src: /images/compression-image.jpg }
 ---
