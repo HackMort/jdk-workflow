@@ -54,7 +54,7 @@ The image used for performance testing in .jpg format weighs 1MB, and these are 
 
 It is important to remember in this section that Compressor.io is the only tool among all the ones previously mentioned that can compress assets in .svg format.
 
-### CONCLUSIONS
+### Conclusion
 
 - Regarding the PNG format, JPEG optimizer is the tool with the best performance.
 

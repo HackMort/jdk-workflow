@@ -30,7 +30,7 @@ Look for common design patterns that could be reused throughout the project. Thi
 ## Assets
 Make sure that all project assets, such as images, icons, and videos, are available in the propper format and size.
 
-While we don't work with graphics, sometimes we have to make a little modifications to the provided assets ie: compressing, remove transparent pixels/backgrounds, etc. For that we rely on the following [resources](/en/how-to-work-with-images)
+While we don't work with graphics, sometimes we have to make a little modifications to the provided assets ie: compressing, remove transparent pixels/backgrounds, etc. For that we rely on the following [resources](/en/assets-compression)
 
 ## Stack
 Our stack is based on the following technologies:

@@ -58,6 +58,7 @@ export const SIDEBAR: Sidebar = {
       { text: "BEM", link: "en/bem" },
       { text: "Git", link: "en/git" },
       { text: "ESLint", link: "en/eslint" },
+      { text: "Stylelint", link: "en/stylelint" },
       { text: "Assets compression", link: "en/assets-compression" },
     ],
   },
