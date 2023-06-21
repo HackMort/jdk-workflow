@@ -60,6 +60,7 @@ export const SIDEBAR: Sidebar = {
       { text: "ESLint", link: "en/eslint" },
       { text: "Stylelint", link: "en/stylelint" },
       { text: "Assets compression", link: "en/assets-compression" },
+      { text: "Tools", link: "en/tools" }
     ],
   },
 };
