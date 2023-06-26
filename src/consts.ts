@@ -54,9 +54,7 @@ export const SIDEBAR: Sidebar = {
         link: 'en/install-nodejs-windows-11'
       }
     ],
-    'Getting starter': [
-      { text: 'Proyects boilerplate', link: 'en/proyects-boilerplate' }
-    ],
+    'Getting started': [{ text: 'Boilerplate', link: 'en/boilerplate' }],
     Resources: [
       { text: 'BEM', link: 'en/bem' },
       { text: 'Git', link: 'en/git' },

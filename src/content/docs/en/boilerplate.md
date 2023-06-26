@@ -1,6 +1,6 @@
 ---
-title: "Accelerate Your Development with the JDK Boilerplate"
-description: "Discover the power of the JDK Boilerplate in streamlining your development process. This comprehensive blog post guides you through cloning the repository, installing dependencies, and running the project. Learn about essential commands, notes, customizations, and components, as well as utilizing Astro and VS Code extensions for enhanced efficiency."
+title: "JDK Boilerplate"
+description: "Take a look at our Boilerplate to speed up our development process. This page will guide you through all the steps like: cloning the repository, installing dependencies, and running the project. Learn about essential commands, notes, customizations, and components, as well as utilizing Astro and VS Code extensions for enhanced efficiency."
 image:
   {
     src: /images/carl-heyerdahl-KE0nC8-58MQ-unsplash.jpg,
@@ -21,6 +21,6 @@ image:
    Discover the Astro extension for Visual Studio Code, providing syntax highlighting and convenient code snippets. Install the Astro Snippets extension for quick and easy component creation, saving valuable time during development.
 
 5. **Ensuring Code Quality and Consistency**:
-   Utilize the provided ESLint, Prettier, and Stylelint configurations to maintain code quality and adhere to best practices. Learn about available resources for further reference on configuration options and style rules.
+   Utilize the provided <a href="https://eslint.org/" target="_blank">ESLint</a>, <a href="https://prettier.io/" target="_blank">Prettier</a>, and <a href="https://stylelint.io/" target="_blank">Stylelint</a> configurations to maintain code quality and adhere to best practices. Learn about available resources for further reference on configuration options and style rules.
 
-> Visit the <a href="https://github.com/HackMort/jdk-boilerplate/tree/develop" target="_blank">JDK Boilerplate repository</a> and discover how this boilerplate can save you time and effort.
+> Visit the <a href="https://github.com/HackMort/jdk-boilerplate/tree/develop" target="_blank">JDK Boilerplate repository</a> and discover how our boilerplate can save you time and effort.
