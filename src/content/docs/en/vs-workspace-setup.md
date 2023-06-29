@@ -9,9 +9,9 @@ Is a collection of one or more folders that are opened in a VS Code window (inst
 If you want to learn more about it, check the [VS Code Docs](https://code.visualstudio.com/docs/editor/workspaces), 'workspace' 
 
 ## Benefits
-+ Configure settings that only apply to a specific folders but not others.
++ Configure settings that only apply to specific folders but not others.
 + Persist task and debugger launch configurations that are only valid in the context of that workspace.
-+ Store and restore UI state associated with that workspace.
++ Store and restore the UI state associated with that workspace.
 + Selectively enable or disable extensions only for that workspace.
 
 ## Create a workspace
@@ -24,7 +24,7 @@ If you want to learn more about it, check the [VS Code Docs](https://code.visual
 
 ## Remove folder from workspace
 By default VS Code adds to your workspace the folder where you were when the workspace was created, you could remove it if you don't want to work on it.  
-This action don't delete the folder.  
+This action doesn't delete the folder.  
 + Right click on the folder.
 + Select the option Remove Folder from Workspace.  
 
