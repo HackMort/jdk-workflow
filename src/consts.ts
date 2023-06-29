@@ -54,8 +54,8 @@ export const SIDEBAR: Sidebar = {
         link: 'en/install-nodejs-windows-11'
       },
       {
-        text: 'VS Code Workspace Setup',
-        link: 'en/vs-workspace-setup'
+        text: 'Workspace',
+        link: 'en/workspace'
       }
     ],
     'Getting started': [{ text: 'Boilerplate', link: 'en/boilerplate' }],
