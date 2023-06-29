@@ -5,7 +5,8 @@ image: { src: /images/workspace-image.svg }
 ---
 
 ## What is it?
-According to [VS Code Docs](https://code.visualstudio.com/docs/editor/workspaces), 'workspace' is the collection of one or more folders that are opened in a VS Code window (instance).
+Is a collection of one or more folders that are opened in a VS Code window (instance).  
+If you want to learn more about it, check the [VS Code Docs](https://code.visualstudio.com/docs/editor/workspaces), 'workspace' 
 
 ## Benefits
 + Configure settings that only apply to a specific folders but not others.
