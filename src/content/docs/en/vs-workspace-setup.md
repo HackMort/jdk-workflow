@@ -129,5 +129,8 @@ Add following settings in your JSON:
   }
 ```
 
-## Do you want to learn more about related topics?
-You may consider reading the page on this website about the [Boilerplate](/en/boilerplate) or the page specifically dedicated to [Stylelint](/en/stylelint).
+## Learn More
+We recommend you to take a look at these 3 pages where you can learn more about our Boilerplate and Code Styles we follow:
++ [Boilerplate](/en/boilerplate)
++ [Stylelint](/en/stylelint)
++ [ESLint](/en/eslint)
