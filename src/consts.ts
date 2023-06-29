@@ -52,6 +52,10 @@ export const SIDEBAR: Sidebar = {
       {
         text: 'How to install nodejs on Windows 11',
         link: 'en/install-nodejs-windows-11'
+      },
+      {
+        text: 'Workspace',
+        link: 'en/workspace'
       }
     ],
     'Getting started': [{ text: 'Boilerplate', link: 'en/boilerplate' }],
